@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Find element in sorted array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Square Root" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Matrix Search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sorted Binary Array" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
