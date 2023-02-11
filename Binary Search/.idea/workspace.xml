@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8fec615-7977-4844-8736-79fd1855b823" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Binary Search.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/.idea/Binary Search.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/MatrixSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/SquareMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/out/production/Binary Search/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/out/production/Binary Search/.idea/Binary Search.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/out/production/Binary Search/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/out/production/Binary Search/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Binary Search/out/production/Binary Search/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/First and Last Index/FirstMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Binary Search.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Binary Search.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
